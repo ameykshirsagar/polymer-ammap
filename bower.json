@@ -3,7 +3,8 @@
     "description": "AmMaps in Polymer 2",
     "main": "polymer-ammap.html",
     "dependencies": {
-        "polymer": "Polymer/polymer#^2.0.0"
+        "polymer": "Polymer/polymer#^2.0.0",
+        "ammaps3": "amcharts/ammap3"
     },
     "authors": [
         "Amey Kshirsagar"
